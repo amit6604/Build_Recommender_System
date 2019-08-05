@@ -1,4 +1,4 @@
-# Building_Movie_Recommender_System
+# Building_Movie_Recommender_System with tmdb dataset
 
 The rapid growth of data collection has led to a new era of information. Data is being used to create more efficient systems and this is where Recommendation Systems come into play. Recommendation Systems are a type of information filtering systems as they improve the quality of search results and provides items that are more relevant to the search item or are realted to the search history of the user.
 
@@ -10,6 +10,6 @@ There are basically three types of recommender systems:-
 ​
 > *  **Collaborative Filtering**- This system matches persons with similar interests and provides recommendations based on this matching. Collaborative filters do not require item metadata like its content-based counterparts.
 
-**[Python Notebook](https://machinelearningmastery.com/practical-deep-learning-for-coders-review/)**
+**[Python Notebook](https://github.com/amit6604/Movie_Recommender_System/blob/master/Movie_Recommender_System.ipynb)**
 
 **[Dataset](https://github.com/amit6604/Movie_Recommender_System/blob/master/Data/)**
